@@ -75,3 +75,5 @@ View network-related information (currently a placeholder).
 This tool is designed to be a powerful utility for users who need to monitor and manage system processes and performance. It combines modern UI elements with advanced process management capabilities, offering a user-friendly and feature-rich experience.
 
 Some Of the options wont work since i havent had the time to update or fix them. 
+![image](https://github.com/user-attachments/assets/3f5d19fa-4351-44f8-9f33-4d9eac69a6ea)
+![image](https://github.com/user-attachments/assets/9cb2477d-9788-4c2d-8f10-6bd45bab81ce)
